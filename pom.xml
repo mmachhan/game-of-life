@@ -260,9 +260,9 @@
 		     	 <version>${project.version}</version> 
 		          </dependency> 
 		      </dependencies> 
-		      <configuration> 
-		          <configLocation>custom-checkstyle.xml</configLocation> 
-		      </configuration> 
+		     <!-- <configuration> --> 
+		      <!--    <configLocation>custom-checkstyle.xml</configLocation> --> 
+		    <!--  </configuration> --> 
 		 </plugin>  
 
                      <!-- PMD --> 
